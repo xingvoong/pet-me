@@ -1,2 +1,2 @@
 # Pet Me
-An attempt to make a virtual pet that is well pet-able
+a virtual pet that is ... pet-able
