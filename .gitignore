@@ -6,3 +6,9 @@ config.js
 package-lock.json
 
 .eslintrc.js
+
+# macOS
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
