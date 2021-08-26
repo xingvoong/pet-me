@@ -1,0 +1,42 @@
+{
+  "name": "pet_me",
+  "version": "1.0.0",
+  "description": "An attempt to make a virtual pet that is well pet-able",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --mode development --watch",
+    "server": "npx nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xingvoong/pet_me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xingvoong/pet_me/issues"
+  },
+  "homepage": "https://github.com/xingvoong/pet_me#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.15.0",
+    "@babel/preset-react": "^7.14.5",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0"
+  },
+  "dependencies": {
+    "babel-loader": "^8.2.2",
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "compression-webpack-plugin": "^8.0.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "styled-components": "^5.3.1",
+    "webpack-bundle-analyzer": "^4.4.2"
+  }
+}
