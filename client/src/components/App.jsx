@@ -1,21 +1,25 @@
 import React, {useState} from 'react';
 import styled from 'styled-components';
+import PetView from './PetView.jsx';
+import WalkPet from './WalkPet.jsx';
 
 const Container = styled.div`
 display: flex;
 flex-direction: row;
-justify-content: 'space-between';
+justify-content:center;
+align-items: center;
 font-family: Arial, Helvetica, sans-serif;
 `;
 
 const App = (props) => {
+  const [walk, setWalk] = useState(false);
+
   return (
     <Container>
-      <div> column 1</div>
-      <div> column 2</div>
-      <div> column 3</div>
+      {
+        walk ? <WalkPet /> : <PetView setWalk={setWalk} walk={walk}/>
+      }
     </Container>
-  )
-}
-
+  );
+};
 export default App;
