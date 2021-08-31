@@ -14,7 +14,7 @@ const PetView = ({walk, setWalk}) => {
       <Wrap>
         <div>
           <div className="cartoon">
-            <div className="bubble b r hb">pet mii,  please</div>
+            <div className="bubble b r hb">daddie, pet mii, plz</div>
           </div>
           <div>
             Happiness: {count} %
