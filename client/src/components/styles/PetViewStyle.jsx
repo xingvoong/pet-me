@@ -59,4 +59,5 @@ const Button = styled.button`
 font-size: 35px;
 `;
 
+
 export {Wrap, Icon, Button};
