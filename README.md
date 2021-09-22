@@ -1,5 +1,5 @@
 # Pet Me
-A game that simulates a virtual pet that is pet-able and walkable.
+A game that simulates a virtual pet that is pet-able and walkable. Best visual displays on Chrome Browser and MacBook Pro 13-inch.
 
 ## Authors
 - [@xingvoong](https://github.com/xingvoong)
@@ -9,6 +9,8 @@ A game that simulates a virtual pet that is pet-able and walkable.
 - 🐕  **walk the dog**: let users walk the dog in a virtual environment
 
 ## Demo
+### demo video:
+https://www.youtube.com/watch?v=kV9bXaRkttk
 ####  Pet the dog
 ![pet me](https://github.com/xingvoong/pet-me/blob/main/gif/pet_me.gif?raw=true)
 
