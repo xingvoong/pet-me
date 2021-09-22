@@ -9,6 +9,17 @@ A game that simulates a virtual pet that is pet-able and walkable.
 - 🐕  **walk the dog**: let users walk the dog in a virtual environment
 
 ## Demo
+####  Pet the dog
+![pet me](https://github.com/xingvoong/pet-me/blob/main/gif/pet_me.gif?raw=true)
+
+#### More pet
+![more pet](https://github.com/xingvoong/pet-me/blob/main/gif/more_pet.gif?raw=true)
+
+#### Walk the dog
+![walk dog](https://github.com/xingvoong/pet-me/blob/main/gif/walk_1.gif?raw=true)
+
+#### More walk
+![more walk](https://github.com/xingvoong/pet-me/blob/main/gif/walk_2.gif?raw=true)
 
 ## Run Locally
 Check required tech is installed (see below).
