@@ -1,7 +1,7 @@
 # Pet Me
 A game that simulates a virtual pet that is pet-able and walkable. Best visual displays on Chrome Browser and MacBook Pro 13-inch.
 
-## Authors
+## Author
 - [@xingvoong](https://github.com/xingvoong)
 
 ## Features
