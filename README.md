@@ -5,11 +5,11 @@ A game that simulates a virtual pet that is pet-able and walkable. Best visual d
 - [@xingvoong](https://github.com/xingvoong)
 
 ## Features
-- 🐶  **pet the dog**: allows users to pet the dog to make them happier.
-- 🐕  **walk the dog**: let users walk the dog in a virtual environment
+- 🐶  **pet the dog**: allows users to pet the dog, to make them happier.
+- 🐕  **walk the dog**: lets users walk the dog in a virtual environment
 
 ## Demo
-### demo video:
+### Demo video:
 https://www.youtube.com/watch?v=kV9bXaRkttk
 ####  Pet the dog
 ![pet me](https://github.com/xingvoong/pet-me/blob/main/gif/pet_me.gif?raw=true)
