@@ -1,6 +1,6 @@
-import React, {useState} from 'react';
+import React from 'react';
 import styled from 'styled-components';
-import Draggable, {DraggableCore} from 'react-draggable';
+import Draggable from 'react-draggable';
 import background from '../img/park.jpg';
 
 
@@ -30,8 +30,5 @@ height: 100vh;
 const Icon = styled.div`
 font-size: 120px;
 `;
-
-
-
 
 export default WalkPet;
