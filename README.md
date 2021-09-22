@@ -53,7 +53,7 @@ Now the app is ready at http://localhost:3000/
 ## Tech Stack
 **Client**: React, Material-UI, styled-components.
 
-**Server**: Node, Express.
+**Server**: Node.js, Express.
 
 ## Requirement
 - Web browser
