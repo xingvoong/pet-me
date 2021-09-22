@@ -1,14 +1,11 @@
 import React, {useState} from 'react';
-import ReactDOM from 'react-dom';
-import styled from 'styled-components';
-import WalkPet from './WalkPet.jsx';
 import {Wrap, Icon, Button} from './styles/PetViewStyle.jsx';
 import './styles/PetView.css';
 
 
+// eslint-disable-next-line react/prop-types
 const PetView = ({walk, setWalk}) => {
   const [count, setCount] = useState(0);
-  const happiness = count;
   if (count < 100) {
     return (
       <Wrap>
